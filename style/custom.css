@@ -1,0 +1,231 @@
+/* Custom CSS
+-------------------------*/
+body {
+    background-color: #eee;
+}
+
+#region-main {
+    background-color: #FFF;
+    border-radius: 4px;
+}
+
+#userdetails{
+    float:right;
+    height:60px;
+    margin-right:10px;
+    min-width:250px;
+}
+#userdetails h1{
+    font-size:1.5em;
+    line-height:1;
+    margin-bottom:.5em;
+    text-align:left;
+    color:#fff;
+    margin-bottom: 10px;
+    padding-left: 65px;
+}
+#userdetails_loggedout{
+    float:right;
+    height:60px;
+    margin-right:10px;
+      margin-top: -10px;
+}
+#userdetails_loggedout h1{
+    font-size:1.2em;
+    padding-top:40px;
+    text-align:right;
+    color:#fff;
+    margin-top: -10px;
+}
+
+.headermain{
+    float:right;
+    margin:0 0 3px;
+    padding:0;
+}
+.langmenu{
+    text-align:right;
+}
+
+#userimg .userpicture{
+
+}
+
+.headermain.inside{
+    font-size:1em;
+    margin-left:10px;
+    margin-top:45px;
+}
+
+#userimg
+{
+  float: left;
+  margin-top: 10px;
+}
+
+p.prolog{
+    margin-bottom:0;
+    margin-top:-5px;
+    float:left;
+    margin-left: 10px;
+}
+
+a.logo {
+    background: url([[setting:logo]]) no-repeat 0 0;
+    display: block;
+    float: left;
+    height: 75px;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.dir-rtl a.logo {
+    background: url([[setting:logo]]) no-repeat 100% 0;
+    display: block;
+    float: right;
+}
+.navbar-text a:hover, a:focus{
+	color:#ccc;
+    text-decoration: none;
+}
+
+.navbar .nav > li > a {
+    color: #FFFFFF;
+    padding: 10px 15px;
+}
+
+.navbar-text a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    clear:both;
+}
+
+.brand{
+	margin-left: 50px;
+}
+
+.navbar-inner {
+    background:#416280 !important;
+    min-height: 52px;
+}
+
+.navbar-text .logininfo{
+    color: #fff;
+    line-height: 40px;
+}
+
+.block {
+    background-color: #FFF;
+    border:none;
+    box-shadow:none;
+}
+#page{
+	margin-top: 50px;
+}
+.icons-direita{
+	margin-right: 10px;
+	margin-top: 10px;
+}
+
+.menu{
+	color:#445F7D;
+	font-size: 16px;
+	border-right: 1px solid #CCCCCC;
+}
+
+.menu li{
+	border-bottom: 1px solid #ccc;
+	padding-bottom: 10px;
+	width: 200px;
+}
+.icon-sign-writting, .icon-libras{
+	float:right;
+	cursor: pointer;
+}
+
+.icon-libras{
+	width:18px;
+	height:16px;
+	background: url("clean/pix/icons/mao-libras.png") center no-repeat;
+}
+.icon-sign-writting{
+	width:15px;
+	height:17px;
+	margin-top: 20px;
+	margin-right:-18px !important;
+	background: url("clean/pix/icons/mao-signwrigth.png") center no-repeat;
+}
+
+.icon-libras:HOVER{
+	background: url("clean/pix/icons/mao-libras-mouseover.png") center no-repeat;
+}
+.icon-sign-writting:HOVER{
+	background: url("clean/pix/icons/mao-signwrigth-mouseover.png") center no-repeat;
+}
+.clear-both{
+	clear: both;
+}
+
+.menu .ultimo-item{
+	border: none;
+}
+.cursor-click{
+	cursor: pointer;
+}
+
+#page-footer{
+	background: #eee !important;
+	margin-left: -20px;
+	margin-right: -20px;
+	height: 73px;
+}
+
+#page-header{
+	margin-top: -50px;
+}
+
+.coursebox{
+	width: 250px;
+}
+
+#page-navbar{
+	margin-top:25px;
+}
+
+.form-header-login{
+	margin-top: 10px !important;
+}
+
+.form-header-login .forgetpass{
+	line-height: 0px !important;
+}
+
+.input-header-login{
+	background: #4585B1 !important;
+	color:#FFFFFF !important;
+	border: #78A3D6 solid 3px !important;
+	width: 120px;
+}
+
+.li-submenu{
+	margin-top: 10px;
+	margin-left: 10px;
+}
+
+.li-submenu li{
+	width:180px;
+	border-top: 2px dotted #ccc;
+	border-bottom:none !important;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+.surdo{
+    border:2px solid #FFFF00;
+}
+
+/* Custom CSS Settings
+-------------------------*/
+[[setting:customcss]]
