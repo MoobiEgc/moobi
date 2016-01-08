@@ -26,11 +26,8 @@ echo $OUTPUT->doctype() ?>
     <?php echo $OUTPUT->standard_head_html() ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-    <script src="http://arquivos.weblibras.com.br/auto/wl-min.js"></script>
-    <script>
-    var wl = new WebLibras();
-    WebLibras.apiKey = 'ab6447b8-43bc-42f1-8c1c-43634554f43e';
-    </script>
+    
+    
     <link href="<?php echo $CFG->wwwroot; ?>/blocks/webgd/css/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" />';
 
     <style>
