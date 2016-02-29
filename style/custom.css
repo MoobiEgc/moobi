@@ -148,21 +148,21 @@ a.logo {
 .icon-libras{
 	width:18px;
 	height:16px;
-	background: url("clean/pix/icons/mao-libras.png") center no-repeat;
+	background: url("moobi/pix/icons/mao-libras.png") center no-repeat;
 }
 .icon-sign-writting{
 	width:15px;
 	height:17px;
 	margin-top: 20px;
 	margin-right:-18px !important;
-	background: url("clean/pix/icons/mao-signwrigth.png") center no-repeat;
+	background: url("moobi/pix/icons/mao-signwrigth.png") center no-repeat;
 }
 
 .icon-libras:HOVER{
-	background: url("clean/pix/icons/mao-libras-mouseover.png") center no-repeat;
+	background: url("moobi/pix/icons/mao-libras-mouseover.png") center no-repeat;
 }
 .icon-sign-writting:HOVER{
-	background: url("clean/pix/icons/mao-signwrigth-mouseover.png") center no-repeat;
+	background: url("moobi/pix/icons/mao-signwrigth-mouseover.png") center no-repeat;
 }
 .clear-both{
 	clear: both;
