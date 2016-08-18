@@ -32,10 +32,10 @@ echo $OUTPUT->doctype() ?>
     <link rel="shortcut icon" href="<?php echo $OUTPUT->favicon(); ?>" />
     <?php echo $OUTPUT->standard_head_html() ?>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    
-    <script src="<?php echo $CFG->wwwroot.'/lib/jquery/jquery-1.10.2.js';?>"></script>
 
-    
+    <script src="<?php echo $CFG->wwwroot.'/theme/moobi/js/jquery-1.10.2.js';?>"></script>
+
+
     <link href="<?php echo $CFG->wwwroot; ?>/blocks/webgd/css/font-awesome-4.2.0/css/font-awesome.min.css" rel="stylesheet" />';
 
     <style>
