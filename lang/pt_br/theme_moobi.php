@@ -67,10 +67,10 @@ $string['region-side-post'] = 'Right';
 $string['region-side-pre'] = 'Left';
 $string['usergreeting'] = 'Olá, {$a}!';
 $string['welcome'] = 'Bem vindo, {$a}';
-$string['bemvindo'] = 'Seja bem-vindo ao WebGD!';
-$string['descricao'] = 'O WebGD é um ambiente de aprendizagem que visa a acessibilidade a surdos e ouvintes.
+$string['bemvindo'] = 'Seja bem-vindo ao Moobi!';
+$string['descricao'] = 'O Moobi é um ambiente de aprendizagem que visa a acessibilidade a surdos e ouvintes.
 Aqui, você encontrará cursos na área de Geometria, além da possibilidade de criar comunidades de prática.
 O ambiente oferece um conjunto de ferramentas para interação, colaboração e comunicação para auxiliar atividades de discussão, criação de sinais, votação, construção de ícones e gravação de vídeos.
 Clique em Entrar na área superior direita do site.
-Para utilizar o WebGD é necessário criar uma conta e ter de preferência um e-mail do Gmail.';
+Para utilizar o Moobi é necessário criar uma conta e ter de preferência um e-mail do Gmail.';
 $string['loginhere'] = 'Login aqui!';
